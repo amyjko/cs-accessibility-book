@@ -1,4 +1,6 @@
 - Computing is Accessibility
+   - Accessibility becoming mainstream
+   - Industry has done a lot, is doing more
 
 - How User Interfaces Are Built
 - Building Accessibility into User Interface Systems
@@ -90,10 +92,14 @@ Each of these chapters introduces a different kind of access technology, describ
 14. In vision
    - Vision for non-visual access
    - Vision for low-visual access
+   - Caption challenge
+
+15. In NLP
+   - Predictive typing
+   - Audio description challenge
 
 14. In artificial intelligence
    - People with Disabilities as Early Adopters of AI
-   - Predictive typing
    - Speech recognition
    - Predictive typing
    - Disability, bias, and equity (e.g., in data sets)
