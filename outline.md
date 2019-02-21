@@ -60,28 +60,40 @@ Each of these chapters introduces a different kind of access technology, describ
 
 6. Reading Support
    - 
+
 7. Alternative and Augmentative Communication
    - 
+
 8. Eye Tracking
    - 
 
-9. In the Operating System
+9. In operating systems
+   - OS must be designed to enable accessibility.
+   - Window manager support
+   - Device driver support
+   - Application frameworks enforce accessibility requirements
+   
+10. In programming languages
+   - Syntax assumes text editor
+   - Making structure navigable via alternative editors
+   
+11. In software engineering
+   - Decomposition of input modality and functionality necessary for accessibility
+   - Usability supporting architectures
+   
+12. In robotics
+   - Robots are inherently assistive devices
 
+13. In security and privacy
+   - Authentication often relies on biometrics, vision, etc.
 
+14. In vision
+   - Vision for non-visual access
+   - Vision for low-visual access
 
-How Operating Systems are designed to enable accessibility.
-
-
-# Access and Artificial Intelligence
-
-1. People with Disabilities as Early Adopters of AI
-2. Computer Vision for Non-Visual Access
-3. Computer Vision for Low Vision Access
-4. Predictive Typing
-5. Speech Recognition
-6. 
-7. Disability, Bias, and Equity
-
-
-# Augmenting Perception and Cognition
-
+14. In artificial intelligence
+   - People with Disabilities as Early Adopters of AI
+   - Predictive typing
+   - Speech recognition
+   - Predictive typing
+   - Disability, bias, and equity (e.g., in data sets)
